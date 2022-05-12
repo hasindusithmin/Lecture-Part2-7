@@ -1,0 +1,26 @@
+{
+  "name": "lecture-part2-7",
+  "version": "1.0.0",
+  "description": "This code base has arranged as a reference to the Lectures from 2 to 7",
+  "main": "database.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasindusithmin/Lecture-Part2-7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasindusithmin/Lecture-Part2-7/issues"
+  },
+  "homepage": "https://github.com/hasindusithmin/Lecture-Part2-7#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "sqlite3": "^5.0.8"
+  }
+}
