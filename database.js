@@ -23,7 +23,7 @@ let db = new sqlite3.Database(DBSOURCE, (err) => {
             cardNumber text,
             expirytDate text,
             cvv text,
-            timeStamp text,
+            timeStamp text
             )`, (err) => {
             if (err) {
                 console.error(err)
